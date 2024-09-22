@@ -20,7 +20,7 @@ El propósito de este artículo es proporcionar un análisis exhaustivo de la es
 
 La construcción de la espiral de Ulam es sencilla: comenzamos colocando el número 1 en el centro de una cuadrícula bidimensional y luego colocamos los números naturales restantes en una espiral cuadrada en sentido antihorario. 
 
-![Espiral de Ulam](spiral_ulam.jpg)  
+![Espiral de Ulam](https://hojamat.es/sindecimales/divisibilidad/propuestas/rutas/imagenes/coord3.gif)  
 *Espiral de Ulam con los números primos resaltados. Los números primos tienden a alinearse en diagonales.*
 
 Una vez que los números naturales se han colocado en la cuadrícula, se observa que los números primos no se distribuyen de manera aleatoria. En cambio, tienden a agruparse en ciertas diagonales, lo que sugiere la existencia de regularidades matemáticas subyacentes.
