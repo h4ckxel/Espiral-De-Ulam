@@ -4,6 +4,8 @@
 **Alias:** h4ckxel  
 **Fecha:** 22 / Septiembre / 2024
 
+[Artículo por Acxel Elizalde](https://www.researchgate.net/publication/384234124_Espiral_de_Ulam_y_Patrones_de_los_Numeros_Primos_Un_Analisis_Matematico_y_Visual_por_Acxel_Elizalde_h4ckxel)
+
 ## Resumen
 
 Este artículo explora en detalle la espiral de Ulam, una disposición gráfica de los números naturales que revela sorprendentes patrones en la distribución de los números primos. A lo largo del documento, presentamos diversas teorías sobre la formación de estos patrones y revisamos algunas de las fórmulas matemáticas que podrían proporcionar una explicación. Además, se discuten posibles conexiones con otras áreas de la teoría de números, como la función zeta de Riemann y la función $\pi(x)$. Finalmente, se sugieren direcciones para futuras investigaciones en este campo, incluyendo el uso de simulaciones computacionales y las aplicaciones criptográficas de los números primos.
